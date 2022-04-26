@@ -1,6 +1,6 @@
 # Wellbore-Properties-Calculation
 a MATLAB code for calculation of some properties of wellbore and these calculations will be done along the wellbore and we can make some assumption like temperature and pressure will increase linearly from wellhead to bottom hole.
-This homework is about writing a MATLAB code for calculation of some properties of wellbore and these calculations will be done along the wellbore and we can make some assumption like temperature and pressure will increase linearly from wellhead to bottom hole. At the beginning of this homework, we were given with some initial values and these values can be determined based on our student id number. In my group, we used one of our student id number and the id number is 1936012.
+This homework is about writing a MATLAB code for calculation of some properties of wellbore and these calculations will be done along the wellbore and we can make some assumption like temperature and pressure will increase linearly from wellhead to bottom hole. At the beginning of this homework, we were given with some initial values and these values can be determined based on our student id number. In my group, we used one of our student id number and the id number is xxxxxx.
 Based on the student id number, we calculated our input data and it is given below;
 
 After we found our input data, we will use them to find critical temperature and pressure value and to do this will use some correlations.
